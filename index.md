@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/eduardocassimiro/analise-g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<iframe width="100%" height="818" frameborder="0"
+  src="https://observablehq.com/embed/@davidmsousa/projeto-final-da-disciplina-de-visualizacao-de-dados?cells=viewof+interactive"></iframe>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -12,8 +15,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-<iframe width="100%" height="818" frameborder="0"
-  src="https://observablehq.com/embed/@davidmsousa/projeto-final-da-disciplina-de-visualizacao-de-dados?cells=viewof+interactive"></iframe>
 ## Header 2
 ### Header 3
 
