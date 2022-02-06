@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/eduardocassimiro/analise-g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<iframe width="99%" height="818" frameborder="0"
+<iframe width="50%" height="818" frameborder="0"
   src="https://observablehq.com/embed/@davidmsousa/projeto-final-da-disciplina-de-visualizacao-de-dados?cells=viewof+interactive"></iframe>
 
 ### Markdown
