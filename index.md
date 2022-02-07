@@ -8,13 +8,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   src="https://observablehq.com/embed/@eduardocassimiro/projeto-final-da-disciplina-de-visualizacao-de-dados?cells=viewof+multiCloro"></iframe>
   
 <iframe width="100%" height="802" frameborder="0"
-  src="https://observablehq.com/embed/@davidmsousa/projeto-final-da-disciplina-de-visualizacao-de-dados?cells=viewof+interactive"></iframe>
+  src="https://observablehq.com/embed/@eduardocassimiro/projeto-final-da-disciplina-de-visualizacao-de-dados?cells=viewof+interactive"></iframe>
  
 <iframe width="100%" height="758" frameborder="0"
-  src="https://observablehq.com/embed/@davidmsousa/projeto-final-da-disciplina-de-visualizacao-de-dados?cells=viewof+dashboardd"></iframe>
+  src="https://observablehq.com/embed/@eduardocassimiro/projeto-final-da-disciplina-de-visualizacao-de-dados?cells=viewof+dashboardd"></iframe>
   
 <iframe width="100%" height="498" frameborder="0"
-  src="https://observablehq.com/embed/@davidmsousa/projeto-final-da-disciplina-de-visualizacao-de-dados?cells=viewof+multiAngles"></iframe>
+  src="https://observablehq.com/embed/@eduardocassimiro/projeto-final-da-disciplina-de-visualizacao-de-dados?cells=viewof+multiAngles"></iframe>
 
 ### Markdown
 
