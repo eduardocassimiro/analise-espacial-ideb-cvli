@@ -1,49 +1,23 @@
 ## Análise espacial da relação entre notas do Ideb e CVLI
 
-You can use the [editor on GitHub](https://github.com/eduardocassimiro/analise-geografica-ideb-cvli/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+O Brasil continua sendo um dos países com maior desigualdade social do mundo, o que reflete que também existe desigualdade na educação, e consentemente no acesso à oportunidades possibilitadas pelo desenvolvimento do invíduo através de uma educação formal de qualidade [1](https://brasilescola.uol.com.br/sociologia/desigualdade-social.htm). O acesso a educação de qualidade contribui para diminuir a desigualdade social e melhorar a qualidade de vida da população, logo esforços para o desenvlvimento da educação no país tornam-se primordiais [2](https://educacaointegral.org.br/reportagens/desigualdades-educacionais-no-brasil/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Um das formas de analisar o desempenho da escolas é avaliar o seu Índice de Desenvolvimento da Educação Básica (Ideb), reúne, em um só indicador, os resultados de dois conceitos igualmente importantes para a qualidade da educação: o fluxo escolar e as médias de desempenho nas avaliações. O Ideb agrega ao enfoque pedagógico das avaliações em larga escala a possibilidade de resultados sintéticos, facilmente assimiláveis, e que permitem traçar metas de qualidade educacional para os sistemas [3](https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb).
 
+Crimes Violentos Letais Intencionais (CVLI) é a designação criada pela Secretaria Nacional de Segurança Pública, para a categoria de crimes de homicídio doloso, lesão corporal seguida de morte e roubo com resultado morte, esse último também conhecido como Latrocínio.
+
+### Cloropath das Notas do Ideb e Taxa CVLI (p/100.000 habitantes)
 <iframe width="100%" height="700" frameborder="0"
   src="https://observablehq.com/embed/@eduardocassimiro/projeto-final-da-disciplina-de-visualizacao-de-dados?cells=viewof+multiCloro"></iframe>
-  
+
+### Mapa Interativo com as Notoas do Ideb
 <iframe width="100%" height="802" frameborder="0"
   src="https://observablehq.com/embed/@eduardocassimiro/projeto-final-da-disciplina-de-visualizacao-de-dados?cells=viewof+interactive"></iframe>
  
+### Mapa Interativo com as Notas do Ideb e o Histograma do CVLI
 <iframe width="100%" height="758" frameborder="0"
   src="https://observablehq.com/embed/@eduardocassimiro/projeto-final-da-disciplina-de-visualizacao-de-dados?cells=viewof+dashboardd"></iframe>
   
+### Vector Plot das Notas do Ideb e CVLI
 <iframe width="100%" height="498" frameborder="0"
   src="https://observablehq.com/embed/@eduardocassimiro/projeto-final-da-disciplina-de-visualizacao-de-dados?cells=viewof+multiAngles"></iframe>
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eduardocassimiro/analise-geografica-ideb-cvli/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
