@@ -15,7 +15,7 @@ Crimes Violentos Letais Intencionais (CVLI) é a designação criada pela Secret
   src="https://observablehq.com/embed/@eduardocassimiro/projeto-final-da-disciplina-de-visualizacao-de-dados?cells=viewof+interactive"></iframe>
  
 ## Mapa Interativo com as Notas do Ideb e o Histograma do CVLI
-<iframe width="100%" height="758" frameborder="0"
+<iframe width="100%" height="650" frameborder="0"
   src="https://observablehq.com/embed/@eduardocassimiro/projeto-final-da-disciplina-de-visualizacao-de-dados?cells=viewof+dashboardd"></iframe>
   
 ## Vector Plot das Notas do Ideb e CVLI
